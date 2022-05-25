@@ -2,7 +2,7 @@
 The CEO of a ride share company, PyBer, has requested analysis of rideshare data including total number of rides, fare cost of the rides, total drivers, average fare per ride, and average fare per driver. The data requested was seperated by types of cities to better show relationships in the data. This data would ultiamtely be used by decison-makers at PyBer to help better their business and business model.
 
 # Results
-Data for the following metrics were collected, and categorized by the 3 city types Urban, Suburban and Rural:
+Data for the following metrics were collected, and categorized by the 3 city types **Urban, Suburban and Rural:**
 - Total Rides
 - Total Drivers
 - Total Fares
